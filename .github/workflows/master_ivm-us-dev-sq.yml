@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'IVM-US-DEV-SQ'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EA1BE34D2E734237BF91DBF23E584F32 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_07F74E021FD74ADB89FA1F42C8B0F360 }}
           package: '*.jar'
